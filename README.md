@@ -1,1 +1,4 @@
-This is a scraper that runs on [Morph](https://morph.io). To get started [see the documentation](https://morph.io/documentation)
+Ad-hoc method to generate list of politically-exposed persons from
+Wikipedia category pages. This is not meant to produce high-quality
+data, but rather give a lead list for further investigation and 
+data cross-referencing.
