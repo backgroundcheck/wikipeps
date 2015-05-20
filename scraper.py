@@ -18,7 +18,7 @@ COLLECTIONS = {
                    'Government_ministers_of_Mozambique'],
     'southafrica': ['Members_of_the_National_Assembly_of_South_Africa',
                     'South_African_revolutionaries', 'South_African_people_by_political_party',
-                    'South_African_people_by_political_orientation', 'South_African_people']
+                    'South_African_people_by_political_orientation']
 }
 
 
